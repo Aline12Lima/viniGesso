@@ -1,12 +1,5 @@
-import {
-  Instagram,
-  Facebook,
-  MessageCircle,
-  Mail,
-  MapPin,
-  Phone,
-} from "lucide-react";
-import logo from "../assets/logo.png"; // Certifique-se de que o caminho está correto
+import { MapPin, Phone, MessageCircle, Mail } from "lucide-react";
+import logo from "../assets/logo.png";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

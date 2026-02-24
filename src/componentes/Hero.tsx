@@ -7,8 +7,9 @@ import imag3 from "../assets/imgs/parede.jpeg";
 import imag4 from "../assets/imgs/hero3.jpg";
 import imag5 from "../assets/imgs/hero1.jpeg";
 
-// Import Swiper styles
+// @ts-ignore
 import "swiper/css";
+// @ts-ignore
 import "swiper/css/pagination";
 
 const services = [
